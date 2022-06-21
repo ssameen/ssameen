@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssameen
 - 👀 I’m interested in developing applications, solving problems, debugging.
-- 🌱 I’m currently learning Swift!
-- 📫 How to reach me ... s_sameen@coloradocollege.edu
+- 🌱 I’m currently grinding LeetCode for my upcoming internship interviews!
+- 📫 Reach me at s_sameen@coloradocollege.edu
 
 <!---
 ssameen/ssameen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
