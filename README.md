@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssameen
+- 👋 Hi, I’m @ssameen, a Pinterest Engage Scholar and a Software Engineer.
 - 👀 I’m interested in developing applications, solving problems, debugging.
 - 🌱 I’m currently grinding LeetCode for my upcoming internship interviews!
 - 📫 Reach me at s_sameen@coloradocollege.edu
